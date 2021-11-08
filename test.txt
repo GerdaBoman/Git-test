@@ -1,4 +1,4 @@
 Ändra här...
 Lagt till ny rad
 Ändra rad för demo av Git GUI
-Making jokes about Git is not easy...You have to really commit and push. <-- Gerda ^_^'
+Making jokes about Git is not easy...You have to really commit and push. <-- Gerda :D
